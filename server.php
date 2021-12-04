@@ -1,4 +1,4 @@
-<?php header(‘Location: public/’);
+<?php
 
 /**
  * Laravel - A PHP Framework For Web Artisans
